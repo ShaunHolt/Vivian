@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent2">#47ca00</color>
+    <color name="orange">#ff9800</color>
+
+    <color name="light_green">#70ff76</color>
+    <color name="light_yellow">#729cff</color>
+    <color name="light_teal">#009688</color>
+    <color name="light_cyan">#00BCD4</color>
+    <color name="black">#000000</color>
+    <color name="bacc">#11000000</color>
+    <color name="red">#ef5350</color>
+    <color name="redt">#96ef5350</color>
+    <color name="backgraound">#000000</color>
+    <color name="backabt">#80090909</color>
+    <color name="maintrans">#ffffff</color>
+    <color name="light_lime">#827717</color>
+    <color name="dark_blue">#173582</color>
+    <color name="colorStatus">#002196f3</color>
+    <color name="buttoncol">#00b2d7</color>
+    <color name="backboom">#e8262525</color>
+    <color name="colorSliderBackground">#FF181821</color>
+    <color name="colorTextColor">#FFFFFFFF</color>
+    <color name="colorSwitchColor">#2371fa</color>
+
+    <color name="chat">#f5f5f5</color>
+    <color name="butt">#9e171717</color>
+    <color name="transparent">#00171717</color>
+
+    <color name="first_slide_background">#fa3e73</color>
+    <color name="first_slide_buttons">#272727</color>
+
+    <color name="second_slide_background">#32a8cc</color>
+    <color name="second_slide_buttons">#272727</color>
+
+    <color name="third_slide_background">#42a646</color>
+    <color name="third_slide_buttons">#272727</color>
+
+    <color name="fourth_slide_background">#ffffff</color>
+    <color name="fourth_slide_buttons">#ffffff</color>
+
+
+    <color name="boom5">#e91e63</color>
+    <color name="boom2">#2196f3</color>
+    <color name="boom3">#8046b5</color>
+    <color name="boom4">#727272</color>
+    <color name="boom1">#d32f2f</color>
+    <color name="light_gray">#e0e0e0</color>
+    <color name="purple">#5d0080</color>
+
+
+
+</resources>
+

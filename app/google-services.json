@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "753113907141",
+    "firebase_url": "https://therapy-62617.firebaseio.com",
+    "project_id": "therapy-62617",
+    "storage_bucket": "therapy-62617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753113907141:android:220c598480d813a3",
+        "android_client_info": {
+          "package_name": "com.directlineex.brsingh.directlineandroidexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753113907141-ne7gonm4madvj4oo4jt580ipjsi0np9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.directlineex.brsingh.directlineandroidexample",
+            "certificate_hash": "5521c8313d4de1f414eb5b02d8c9750d4bf2fd05"
+          }
+        },
+        {
+          "client_id": "753113907141-9g6f8tcjdimrq4so5dhgu82nrjlqb2og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApZxYpFphAsoP0UdEut9fSCVfO2IUGZo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753113907141-9g6f8tcjdimrq4so5dhgu82nrjlqb2og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753113907141:android:1bb0a61d544c632a",
+        "android_client_info": {
+          "package_name": "in.digibuddies.vivian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753113907141-0k8c36o1us6cpf9ulgslt4in9a9ng0kj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.digibuddies.vivian",
+            "certificate_hash": "5521c8313d4de1f414eb5b02d8c9750d4bf2fd05"
+          }
+        },
+        {
+          "client_id": "753113907141-9g6f8tcjdimrq4so5dhgu82nrjlqb2og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApZxYpFphAsoP0UdEut9fSCVfO2IUGZo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753113907141-9g6f8tcjdimrq4so5dhgu82nrjlqb2og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

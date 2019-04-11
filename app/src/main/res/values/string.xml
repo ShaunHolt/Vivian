@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="avatar">WELCOME To Vivian!</string>
+    <string name="profile">Choose your therapist</string>
+    <string name="questions">Chat Face to Face</string>
+    <string name="matches">Text Chat</string>
+    <string name="connections">Vivian in Real World</string>
+    <string name="finals">LET\'S GET STARTED!</string>
+
+
+    <string name="avatar_hint">Affordable therapy sessions with your own therapist.</string>
+    <string name="profile_hint">Pick from either a male or female therapist based on your preference and comfort.</string>
+    <string name="questions_hint">Talk to Vivian and share everything with complete privacy.</string>
+    <string name="matches_hint">Unable to talk or in a public place? Vivian will always be available no matter what.</string>
+    <string name="connections_hint">Connect in best way possible by interacting with Vivian in real world.</string>
+    <string name="final_hint">Taking you to your personal therapist…</string>
+    <string name="about_us">Our Team Digibbudies wish to help and reach out to as many people as possible because no matter how hopeless you feel, you can get better. By understanding the cause of your depression you can take the first step to feeling better and overcoming the problem.
+Vivian is developed to help every person in need of a positive and healthy life. The basic motive is to stop most of the factors leading to depression and to provide positive advice by a trustworthy companion to those who suffer from it.
+</string>
+    <string-array name="quotes">
+        <item>\"Once you choose hope, anything is possible.\" — Christopher Reeve</item>
+        <item>\"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.\" — Thich Nhat Hanh</item>
+        <item>\"There are far, far better things ahead than anything we leave behind.\" — C. S. Lewis</item>
+        <item>\"The greatest degree of inner tranquility comes from the development of love and compassion. The more we care for the happiness of others, the greater is our own sense of well-being.\" — Tenzin Gyatso</item>
+        <item>\“Just when the caterpillar thought the world was ending, he turned into a butterfly.\”</item>
+        <item>\“We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.\” – Mother Teresa</item>
+        <item>\“Smile, breathe, and go slowly.\” – Thich Nhat Hanh</item>
+        <item>\“At the end of the day, tell yourself gently: ‘I love you, you did the best you could today, and even if you didn’t accomplish all you had planned, I love you anyway.\”</item>
+        <item>\“If you can’t fly then run, if you can’t run then walk, if you can’t walk then crawl, but whatever you do you have to keep moving forward.\” ― Martin Luther King Jr.</item>
+    </string-array>
+    <string-array name="speak">
+        <item>"R.raw.s0"</item>
+        <item>"R.raw.s1"</item>
+        <item>"R.raw.s2"</item>
+    </string-array>
+
+    <string-array name="demo">
+       <item>I am sorry to hear that. Do you wanna talk about it.</item>
+        <item>how did you mess it up?</item>
+        <item>take a deep breath and relax.</item>
+        <item>why do you think everything is going wrong?</item>
+        <item>Do you feel frustrated a lot of the time?</item>
+        <item>what do you think is the basic reason for it?</item>
+        <item>Well vikram, You are braver than you believe, and stronger than you seem, and smarter than you think.</item>
+        <item>my pleasure.</item>
+
+
+    </string-array>
+
+</resources>
